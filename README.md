@@ -1,4 +1,12 @@
-In the src/index.ts file try to console log your inputs like this : 
+- Clone this repo :
+
+`git clone git@github.com:iamAbasu7/Incubyte-TDD-Assessment.git`
+
+- Go into the directory :
+
+`cd Incubyte-TDD-Assessment`
+
+-In the src/index.ts file try to console log your inputs like this : 
 
 ```
 console.log(calculator.add("2"))
@@ -22,4 +30,5 @@ console.log(calculator.add("1,-2,11"))
 `npm run build`
 
 - Start
+
 `npm run start`
