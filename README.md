@@ -29,6 +29,10 @@ console.log(calculator.add("1,-2,11"))
 
 `npm run build`
 
+- Run test cases
+  
+`npm test`
+
 - Start
 
 `npm run start`
